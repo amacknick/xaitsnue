@@ -1,5 +1,8 @@
 # Xaitsnue website
 
+Run `npm install` from this directory before working.
+
+Run `npm run dev` to run the web server in development mode
 ## Architecture
 - React for handling component layout and logic
 - Typescript for providing a type system
